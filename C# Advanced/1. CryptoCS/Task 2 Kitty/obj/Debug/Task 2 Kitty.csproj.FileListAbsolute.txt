@@ -1,0 +1,5 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\1. CryptoCS\Task 2 Kitty\bin\Debug\Task 2 Kitty.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\1. CryptoCS\Task 2 Kitty\bin\Debug\Task 2 Kitty.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\1. CryptoCS\Task 2 Kitty\bin\Debug\Task 2 Kitty.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\1. CryptoCS\Task 2 Kitty\obj\Debug\Task 2 Kitty.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\1. CryptoCS\Task 2 Kitty\obj\Debug\Task 2 Kitty.pdb

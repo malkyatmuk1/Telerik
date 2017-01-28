@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+	table ,td ,tr{
+		padding:5px 10px;
+
+		border: 1px solid black;
+		border-collapse: collapse;
+	}
+	.selection{
+		width: 70%;
+	}
+
+	
+	tr{
+		width: 350px;
+	}
+	.left {
+		width: 30%;
+		text-align: right;
+		font-weight: bold;	
+
+	}
+	.right {
+
+		width: 70%;
+		text-align:left;
+		}
+	.middle-right{
+		width: 40%;
+	}
+	.sleft{
+		width: 15%;
+		text-align: right;
+		font-weight: bold;
+	}
+	 .sright{
+		width: 15%;
+	}
+	.sto{
+		width: 100%;
+	}
+</style>
+	<title>Problem 1. Registration form</title>
+</head>
+<body>
+	<section>
+		<form>
+			<table style=" width:50%; ">
+				<tr>
+					<td class="left">Last Name</td>
+					<td class="right"  colspan="3"><input class="sto"type="text" name="last name "></td>
+				</tr>
+				<tr>
+					<td class="left">First Name</td>
+					<td class="right"  colspan="3"><input class="sto" type="text" name="first name"></td>
+				</tr>
+				<tr>
+					<td class="left">Address</td>
+					<td class="right"  colspan="3">
+						<textarea class="sto" rows="4" cols="50"></textarea> 
+					</td>
+				</tr>
+				<tr>
+					<td class="left">City</td>
+					<td class="middle-right"><input  class="sto" type="text" name="city"></td>
+					<td class="sleft">State </td>
+					<td class="sright"><input class="sto" type="text" name="state"></td>
+				</tr>
+				<tr>
+					<td class="left">Zip/Postal Code</td>
+					<td class="right"  colspan="3"><input class="sto" type="text" name="last name "></td>
+				</tr>
+				<tr>
+					<td class="left">Country</td>
+					<td class="right"  colspan="3">
+						<select class="selection" name="countries">
+							<option value="Bulgaria">Bulgaria</option>
+							<option value="Bulgaria">USA</option>
+							<option value="Bulgaria">France</option>
+							<option value="Bulgaria">Bazil</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td class="left">Phone (country code, area code, number)</td>
+					<td colspan="3">(+ <input style="width: 20%; " type="number" name="code"> ) <input style="width: 20%;" type="number" name="area"> - <input style="width:40%;" type="number" name="number"></td>
+				<tr>
+					<td class="left">E-mail</td>
+					<td colspan="3"><input class="sto" type="email" name=""></td>
+				</tr>
+				<tr>
+					<td class="left">Birth date</td>
+					<td colspan="3" >Month <input style="width: 15%;" type="number" name="month"/> Day <input style="width:15%;" type="number" name="day"/> Year (4 digit) <input style="width:20%;" type="number" name="year"></td>
+				</tr>
+				<tr>
+					<td class="left">Gender</td>
+					<td colspan="3"> 
+						<select class="selection" name="countries">
+							<option value="Male">Male</option>
+							<option value="Female">Female</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td class="left">Starting date</td>
+					<td colspan="3">
+					<form>
+						<input type="radio" value="Spring2006" name="summer" checked> Spring 2006
+						<input type="radio" value="summer2006" name="summer"> Summer 2006
+					</form>
+					</td>
+				</tr>
+				<tr>
+					<td class="left">Comments/Questions</td>
+					<td colspan="3">
+						<textarea class="sto" rows="4" cols="50"></textarea> 
+					</td>
+				</tr>
+				<tr style="background-color: #ccffff;">
+					<td colspan="4" style="text-align: center;">
+					
+						 <input type="submit" value="Submit">
+						 <input type="Reset" name="reset" value="Clear This Form">
+						 
+					</td>
+				</tr>
+			</table>
+		</form>
+
+
+	</section>
+
+</body>
+</html>

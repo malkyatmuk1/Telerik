@@ -1,0 +1,5 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\05. Parse tags1\bin\Debug\_05.Parse_tags1.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\05. Parse tags1\bin\Debug\_05.Parse_tags1.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\05. Parse tags1\bin\Debug\_05.Parse_tags1.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\05. Parse tags1\obj\Debug\_05.Parse_tags1.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\05. Parse tags1\obj\Debug\_05.Parse_tags1.pdb

@@ -1,0 +1,12 @@
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Students group\bin\Debug\Students group.exe.config
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Students group\obj\Debug\Students group.csprojResolveAssemblyReference.cache
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Students group\bin\Debug\Students group.exe
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Students group\bin\Debug\Students group.pdb
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Students group\bin\Debug\Divisible by 7 and 3.exe
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Students group\bin\Debug\Extension-Methods-Delegates-Lambda-LINQ.exe
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Students group\bin\Debug\Students.exe
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Students group\bin\Debug\Divisible by 7 and 3.pdb
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Students group\bin\Debug\Extension-Methods-Delegates-Lambda-LINQ.pdb
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Students group\bin\Debug\Students.pdb
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Students group\obj\Debug\Students group.exe
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Students group\obj\Debug\Students group.pdb

@@ -1,0 +1,8 @@
+C:\Users\malkyatmuk\Desktop\Defining Classes - Part 2\Defining Classes - Part 2\bin\Debug\Defining Classes - Part 2.exe.config
+C:\Users\malkyatmuk\Desktop\Defining Classes - Part 2\Defining Classes - Part 2\obj\Debug\Defining Classes - Part 2.exe
+C:\Users\malkyatmuk\Desktop\Defining Classes - Part 2\Defining Classes - Part 2\obj\Debug\Defining Classes - Part 2.pdb
+C:\Users\malkyatmuk\Desktop\Defining Classes - Part 2\Defining Classes - Part 2\bin\Debug\Defining Classes - Part 2.exe
+C:\Users\malkyatmuk\Desktop\Defining Classes - Part 2\Defining Classes - Part 2\bin\Debug\Defining Classes - Part 2.pdb
+C:\Users\malkyatmuk\Desktop\Defining Classes - Part 2\Versions\bin\Debug\Defining Classes - Part 2.exe.config
+C:\Users\malkyatmuk\Desktop\Defining Classes - Part 2\Versions\obj\Debug\Defining Classes - Part 2.exe
+C:\Users\malkyatmuk\Desktop\Defining Classes - Part 2\Versions\obj\Debug\Defining Classes - Part 2.pdb

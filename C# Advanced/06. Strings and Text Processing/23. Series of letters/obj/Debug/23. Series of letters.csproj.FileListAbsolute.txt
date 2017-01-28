@@ -1,0 +1,6 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\23. Series of letters\bin\Debug\_23.Series_of_letters.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\23. Series of letters\bin\Debug\_23.Series_of_letters.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\23. Series of letters\bin\Debug\_23.Series_of_letters.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\23. Series of letters\obj\Debug\23. Series of letters.csprojResolveAssemblyReference.cache
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\23. Series of letters\obj\Debug\_23.Series_of_letters.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\23. Series of letters\obj\Debug\_23.Series_of_letters.pdb

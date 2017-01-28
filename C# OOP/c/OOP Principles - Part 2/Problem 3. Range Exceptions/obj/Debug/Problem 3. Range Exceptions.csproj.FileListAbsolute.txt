@@ -1,0 +1,12 @@
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 2\Problem 3. Range Exceptions\bin\Debug\Problem_3.Range_Exceptions.exe.config
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 2\Problem 3. Range Exceptions\bin\Debug\Problem_3.Range_Exceptions.exe
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 2\Problem 3. Range Exceptions\bin\Debug\Problem_3.Range_Exceptions.pdb
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 2\Problem 3. Range Exceptions\obj\Debug\Problem 3. Range Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 2\Problem 3. Range Exceptions\obj\Debug\Problem_3.Range_Exceptions.exe
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 2\Problem 3. Range Exceptions\obj\Debug\Problem_3.Range_Exceptions.pdb
+D:\Telerik\C# OOP\c\OOP Principles - Part 2\Problem 3. Range Exceptions\bin\Debug\Problem_3.Range_Exceptions.exe.config
+D:\Telerik\C# OOP\c\OOP Principles - Part 2\Problem 3. Range Exceptions\obj\Debug\Problem_3.Range_Exceptions.exe
+D:\Telerik\C# OOP\c\OOP Principles - Part 2\Problem 3. Range Exceptions\obj\Debug\Problem_3.Range_Exceptions.pdb
+D:\Telerik\C# OOP\c\OOP Principles - Part 2\Problem 3. Range Exceptions\bin\Debug\Problem_3.Range_Exceptions.exe
+D:\Telerik\C# OOP\c\OOP Principles - Part 2\Problem 3. Range Exceptions\bin\Debug\Problem_3.Range_Exceptions.pdb
+D:\Telerik\C# OOP\c\OOP Principles - Part 2\Problem 3. Range Exceptions\obj\Debug\Problem 3. Range Exceptions.csprojResolveAssemblyReference.cache

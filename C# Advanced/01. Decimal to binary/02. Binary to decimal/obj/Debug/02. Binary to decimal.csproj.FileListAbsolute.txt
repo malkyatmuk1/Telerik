@@ -1,0 +1,6 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\02. Binary to decimal\bin\Debug\_02.Binary_to_decimal.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\02. Binary to decimal\bin\Debug\_02.Binary_to_decimal.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\02. Binary to decimal\bin\Debug\_02.Binary_to_decimal.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\02. Binary to decimal\obj\Debug\_02.Binary_to_decimal.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\02. Binary to decimal\obj\Debug\_02.Binary_to_decimal.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\02. Binary to decimal\obj\Debug\02. Binary to decimal.csprojResolveAssemblyReference.cache

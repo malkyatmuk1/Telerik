@@ -1,0 +1,5 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\09. Sorting array\bin\Debug\_09.Sorting_array.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\09. Sorting array\bin\Debug\_09.Sorting_array.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\09. Sorting array\bin\Debug\_09.Sorting_array.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\09. Sorting array\obj\Debug\_09.Sorting_array.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\09. Sorting array\obj\Debug\_09.Sorting_array.pdb

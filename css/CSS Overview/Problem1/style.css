@@ -1,0 +1,47 @@
+*{
+	font-family: Arial,serif;
+}
+
+.headings{
+	font-style: italic;
+	color: white;
+	text-align: left;
+	padding: 8px;
+}
+
+.name{
+	vertical-align: text-top;
+	font-style: italic;
+	color: white;
+	text-align: left;
+	padding: 8px;
+}
+
+.table{
+	background-color: rgb(89,89,89);
+}
+
+.th{
+	color: rgb(163,180,168);
+	padding: 8px;
+}
+
+.img{
+	width: 2%;
+}
+
+.gray_text{
+	color: #c2c2a3;
+}
+
+.yellow_text{
+	color: rgb(253,250,184);
+}
+
+.orange_text{
+	color: rgb(227,108,26);
+}
+
+.red_text{
+	color: red;
+}

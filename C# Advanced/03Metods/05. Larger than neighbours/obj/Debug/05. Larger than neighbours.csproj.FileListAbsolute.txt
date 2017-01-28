@@ -1,0 +1,5 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\05. Larger than neighbours\bin\Debug\_05.Larger_than_neighbours.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\05. Larger than neighbours\bin\Debug\_05.Larger_than_neighbours.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\05. Larger than neighbours\bin\Debug\_05.Larger_than_neighbours.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\05. Larger than neighbours\obj\Debug\_05.Larger_than_neighbours.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\05. Larger than neighbours\obj\Debug\_05.Larger_than_neighbours.pdb

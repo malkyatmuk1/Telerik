@@ -1,0 +1,6 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\07. One system to any other\bin\Debug\_07.One_system_to_any_other.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\07. One system to any other\bin\Debug\_07.One_system_to_any_other.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\07. One system to any other\bin\Debug\_07.One_system_to_any_other.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\07. One system to any other\obj\Debug\_07.One_system_to_any_other.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\07. One system to any other\obj\Debug\_07.One_system_to_any_other.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\07. One system to any other\obj\Debug\07. One system to any other.csprojResolveAssemblyReference.cache

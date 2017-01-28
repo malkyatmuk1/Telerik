@@ -1,0 +1,6 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\08. Number as array\bin\Debug\_08.Number_as_array.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\08. Number as array\bin\Debug\_08.Number_as_array.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\08. Number as array\bin\Debug\_08.Number_as_array.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\08. Number as array\obj\Debug\08. Number as array.csprojResolveAssemblyReference.cache
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\08. Number as array\obj\Debug\_08.Number_as_array.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\08. Number as array\obj\Debug\_08.Number_as_array.pdb

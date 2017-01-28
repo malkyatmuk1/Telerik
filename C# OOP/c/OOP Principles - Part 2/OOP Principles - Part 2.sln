@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Shapes", "OOP Principles - Part 2\Problem 1. Shapes.csproj", "{5A87771C-3CBB-423B-A79F-09C06906E0F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Bank accounts", "Problem 2. Bank accounts\Problem 2. Bank accounts.csproj", "{4DC3C380-D6B5-4BF1-9037-834FFB76F068}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. Range Exceptions", "Problem 3. Range Exceptions\Problem 3. Range Exceptions.csproj", "{4427C873-1DC1-479D-8AFB-3D1F2EA362A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A87771C-3CBB-423B-A79F-09C06906E0F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A87771C-3CBB-423B-A79F-09C06906E0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A87771C-3CBB-423B-A79F-09C06906E0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A87771C-3CBB-423B-A79F-09C06906E0F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC3C380-D6B5-4BF1-9037-834FFB76F068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC3C380-D6B5-4BF1-9037-834FFB76F068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC3C380-D6B5-4BF1-9037-834FFB76F068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC3C380-D6B5-4BF1-9037-834FFB76F068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4427C873-1DC1-479D-8AFB-3D1F2EA362A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4427C873-1DC1-479D-8AFB-3D1F2EA362A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4427C873-1DC1-479D-8AFB-3D1F2EA362A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4427C873-1DC1-479D-8AFB-3D1F2EA362A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

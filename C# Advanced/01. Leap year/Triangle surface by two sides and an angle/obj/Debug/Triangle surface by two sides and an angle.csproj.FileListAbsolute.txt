@@ -1,0 +1,6 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Leap year\Triangle surface by two sides and an angle\bin\Debug\Triangle surface by two sides and an angle.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Leap year\Triangle surface by two sides and an angle\bin\Debug\Triangle surface by two sides and an angle.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Leap year\Triangle surface by two sides and an angle\bin\Debug\Triangle surface by two sides and an angle.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Leap year\Triangle surface by two sides and an angle\obj\Debug\Triangle surface by two sides and an angle.csprojResolveAssemblyReference.cache
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Leap year\Triangle surface by two sides and an angle\obj\Debug\Triangle surface by two sides and an angle.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Leap year\Triangle surface by two sides and an angle\obj\Debug\Triangle surface by two sides and an angle.pdb

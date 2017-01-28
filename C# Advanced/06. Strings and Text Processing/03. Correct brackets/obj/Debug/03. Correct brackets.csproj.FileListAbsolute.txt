@@ -1,0 +1,5 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\03. Correct brackets\bin\Debug\_03.Correct_brackets.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\03. Correct brackets\bin\Debug\_03.Correct_brackets.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\03. Correct brackets\bin\Debug\_03.Correct_brackets.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\03. Correct brackets\obj\Debug\_03.Correct_brackets.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\03. Correct brackets\obj\Debug\_03.Correct_brackets.pdb

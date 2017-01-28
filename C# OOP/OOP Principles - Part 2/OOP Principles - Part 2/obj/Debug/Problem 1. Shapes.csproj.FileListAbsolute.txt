@@ -1,0 +1,8 @@
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 2\OOP Principles - Part 2\bin\Debug\OOP Principles - Part 2.exe.config
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 2\OOP Principles - Part 2\bin\Debug\OOP Principles - Part 2.exe
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 2\OOP Principles - Part 2\bin\Debug\OOP Principles - Part 2.pdb
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 2\OOP Principles - Part 2\obj\Debug\OOP Principles - Part 2.exe
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 2\OOP Principles - Part 2\obj\Debug\OOP Principles - Part 2.pdb
+D:\Telerik\C# OOP\OOP Principles - Part 2\OOP Principles - Part 2\bin\Debug\OOP Principles - Part 2.exe.config
+D:\Telerik\C# OOP\OOP Principles - Part 2\OOP Principles - Part 2\obj\Debug\OOP Principles - Part 2.exe
+D:\Telerik\C# OOP\OOP Principles - Part 2\OOP Principles - Part 2\obj\Debug\OOP Principles - Part 2.pdb

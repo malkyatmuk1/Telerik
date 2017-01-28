@@ -1,0 +1,9 @@
+C:\Users\malkyatmuk\Desktop\C#\C# OOP\Homework Defining Classes Part one\Defining Classes - Part 1\bin\Debug\Defining Classes - Part 1.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# OOP\Homework Defining Classes Part one\Defining Classes - Part 1\bin\Debug\Defining Classes - Part 1.exe
+C:\Users\malkyatmuk\Desktop\C#\C# OOP\Homework Defining Classes Part one\Defining Classes - Part 1\bin\Debug\Defining Classes - Part 1.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# OOP\Homework Defining Classes Part one\Defining Classes - Part 1\obj\Debug\Problem 1. Define class.csprojResolveAssemblyReference.cache
+C:\Users\malkyatmuk\Desktop\C#\C# OOP\Homework Defining Classes Part one\Defining Classes - Part 1\obj\Debug\Defining Classes - Part 1.exe
+C:\Users\malkyatmuk\Desktop\C#\C# OOP\Homework Defining Classes Part one\Defining Classes - Part 1\obj\Debug\Defining Classes - Part 1.pdb
+D:\Telerik\C# OOP\Homework Defining Classes Part one\Defining Classes - Part 1\bin\Debug\Defining Classes - Part 1.exe.config
+D:\Telerik\C# OOP\Homework Defining Classes Part one\Defining Classes - Part 1\obj\Debug\Defining Classes - Part 1.exe
+D:\Telerik\C# OOP\Homework Defining Classes Part one\Defining Classes - Part 1\obj\Debug\Defining Classes - Part 1.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Fill the matrix", "02. Multidimensional Arrays\01. Fill the matrix.csproj", "{5C1D3E37-D1FF-4F40-BE7B-835CEDA44F96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{1D4C1B06-7BBA-483F-9F2E-3BAA97838BFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Largest area in matrix", "07. Largest area in matrix\07. Largest area in matrix.csproj", "{78D2735A-A3A5-4384-92BB-0A08EC275CF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C1D3E37-D1FF-4F40-BE7B-835CEDA44F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C1D3E37-D1FF-4F40-BE7B-835CEDA44F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C1D3E37-D1FF-4F40-BE7B-835CEDA44F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C1D3E37-D1FF-4F40-BE7B-835CEDA44F96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D4C1B06-7BBA-483F-9F2E-3BAA97838BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D4C1B06-7BBA-483F-9F2E-3BAA97838BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D4C1B06-7BBA-483F-9F2E-3BAA97838BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D4C1B06-7BBA-483F-9F2E-3BAA97838BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78D2735A-A3A5-4384-92BB-0A08EC275CF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D2735A-A3A5-4384-92BB-0A08EC275CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D2735A-A3A5-4384-92BB-0A08EC275CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D2735A-A3A5-4384-92BB-0A08EC275CF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

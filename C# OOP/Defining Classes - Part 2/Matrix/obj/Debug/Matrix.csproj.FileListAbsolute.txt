@@ -1,0 +1,6 @@
+C:\Users\malkyatmuk\Desktop\Defining Classes - Part 2\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\malkyatmuk\Desktop\Defining Classes - Part 2\Matrix\bin\Debug\Matrix.exe
+C:\Users\malkyatmuk\Desktop\Defining Classes - Part 2\Matrix\bin\Debug\Matrix.pdb
+C:\Users\malkyatmuk\Desktop\Defining Classes - Part 2\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+C:\Users\malkyatmuk\Desktop\Defining Classes - Part 2\Matrix\obj\Debug\Matrix.exe
+C:\Users\malkyatmuk\Desktop\Defining Classes - Part 2\Matrix\obj\Debug\Matrix.pdb

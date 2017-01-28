@@ -1,0 +1,5 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\07. Reverse number\bin\Debug\_07.Reverse_number.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\07. Reverse number\bin\Debug\_07.Reverse_number.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\07. Reverse number\bin\Debug\_07.Reverse_number.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\07. Reverse number\obj\Debug\_07.Reverse_number.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\07. Reverse number\obj\Debug\_07.Reverse_number.pdb

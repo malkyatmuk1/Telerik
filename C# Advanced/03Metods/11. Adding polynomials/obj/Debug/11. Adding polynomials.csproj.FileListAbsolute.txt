@@ -1,0 +1,6 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\11. Adding polynomials\bin\Debug\_11.Adding_polynomials.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\11. Adding polynomials\bin\Debug\_11.Adding_polynomials.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\11. Adding polynomials\bin\Debug\_11.Adding_polynomials.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\11. Adding polynomials\obj\Debug\11. Adding polynomials.csprojResolveAssemblyReference.cache
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\11. Adding polynomials\obj\Debug\_11.Adding_polynomials.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\11. Adding polynomials\obj\Debug\_11.Adding_polynomials.pdb

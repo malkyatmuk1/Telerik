@@ -1,0 +1,5 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\02. Reverse string\bin\Debug\_02.Reverse_string.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\02. Reverse string\bin\Debug\_02.Reverse_string.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\02. Reverse string\bin\Debug\_02.Reverse_string.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\02. Reverse string\obj\Debug\_02.Reverse_string.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\02. Reverse string\obj\Debug\_02.Reverse_string.pdb

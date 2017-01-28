@@ -1,0 +1,6 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\1. CryptoCS\Task 1Messages\bin\Debug\Task 1Messages.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\1. CryptoCS\Task 1Messages\obj\Debug\Task 1Messages.csprojResolveAssemblyReference.cache
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\1. CryptoCS\Task 1Messages\bin\Debug\Task 1Messages.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\1. CryptoCS\Task 1Messages\bin\Debug\Task 1Messages.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\1. CryptoCS\Task 1Messages\obj\Debug\Task 1Messages.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\1. CryptoCS\Task 1Messages\obj\Debug\Task 1Messages.pdb

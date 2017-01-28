@@ -1,0 +1,6 @@
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\bin\Debug\Extension-Methods-Delegates-Lambda-LINQ.exe.config
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\obj\Debug\Extension-Methods-Delegates-Lambda-LINQ.csprojResolveAssemblyReference.cache
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\bin\Debug\Extension-Methods-Delegates-Lambda-LINQ.exe
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\bin\Debug\Extension-Methods-Delegates-Lambda-LINQ.pdb
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\obj\Debug\Extension-Methods-Delegates-Lambda-LINQ.exe
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\obj\Debug\Extension-Methods-Delegates-Lambda-LINQ.pdb

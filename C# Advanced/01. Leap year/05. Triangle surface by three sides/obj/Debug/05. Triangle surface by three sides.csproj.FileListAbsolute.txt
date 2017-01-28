@@ -1,0 +1,6 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Leap year\05. Triangle surface by three sides\bin\Debug\_05.Triangle_surface_by_three_sides.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Leap year\05. Triangle surface by three sides\bin\Debug\_05.Triangle_surface_by_three_sides.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Leap year\05. Triangle surface by three sides\bin\Debug\_05.Triangle_surface_by_three_sides.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Leap year\05. Triangle surface by three sides\obj\Debug\05. Triangle surface by three sides.csprojResolveAssemblyReference.cache
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Leap year\05. Triangle surface by three sides\obj\Debug\_05.Triangle_surface_by_three_sides.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Leap year\05. Triangle surface by three sides\obj\Debug\_05.Triangle_surface_by_three_sides.pdb

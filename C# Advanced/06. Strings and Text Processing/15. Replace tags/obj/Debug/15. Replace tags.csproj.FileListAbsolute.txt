@@ -1,0 +1,6 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\15. Replace tags\bin\Debug\_15.Replace_tags.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\15. Replace tags\bin\Debug\_15.Replace_tags.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\15. Replace tags\bin\Debug\_15.Replace_tags.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\15. Replace tags\obj\Debug\15. Replace tags.csprojResolveAssemblyReference.cache
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\15. Replace tags\obj\Debug\_15.Replace_tags.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\15. Replace tags\obj\Debug\_15.Replace_tags.pdb

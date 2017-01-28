@@ -1,0 +1,5 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\05. Hexadecimal to binary\bin\Debug\_05.Hexadecimal_to_binary.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\05. Hexadecimal to binary\bin\Debug\_05.Hexadecimal_to_binary.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\05. Hexadecimal to binary\bin\Debug\_05.Hexadecimal_to_binary.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\05. Hexadecimal to binary\obj\Debug\_05.Hexadecimal_to_binary.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\05. Hexadecimal to binary\obj\Debug\_05.Hexadecimal_to_binary.pdb

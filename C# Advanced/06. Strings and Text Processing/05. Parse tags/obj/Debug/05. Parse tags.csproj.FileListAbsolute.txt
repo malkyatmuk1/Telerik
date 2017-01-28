@@ -1,0 +1,1 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\05. Parse tags\bin\Debug\_05.Parse_tags.exe.config

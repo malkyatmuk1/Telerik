@@ -1,0 +1,6 @@
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Students\bin\Debug\Students.exe.config
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Students\bin\Debug\Students.exe
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Students\bin\Debug\Students.pdb
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Students\obj\Debug\Students.exe
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Students\obj\Debug\Students.pdb
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Students\obj\Debug\Students.csprojResolveAssemblyReference.cache

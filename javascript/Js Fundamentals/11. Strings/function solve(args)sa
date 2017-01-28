@@ -1,0 +1,134 @@
+function solve(args) 
+{
+    let com=args;
+    let size=com[0].split(' ');
+    let row=+size[0];
+    let col=+size[1];
+    let matrix=new Array(row).fill(col);
+    for (var i = 0; i < row; i++) 
+    {
+        for (var j = 0; j < col; j++)
+        {
+            matrix[i][j]=0;
+        }
+    }
+    
+    let startpoints=com[1].split(';');
+  //  let startpoints=starin.split(' ');
+    let edno=startpoints[0].split(' '); 
+     let dve=startpoints[1].split(' '); 
+      let tri=startpoints[2].split(' '); 
+    let startwrow=+edno[0];
+    let startwcol=+edno[1];
+    let startnrow=+dve[0];
+    let startncol=+dve[1];
+    let startlrow=+tri[0];
+    let startlcol=+tri[1];
+    //let endwrow=+startpoints[0];
+    //let endwcol=+startpoints[1];
+    //let endnrow=+startpoints[2];
+    //let endncol=+startpoints[3];
+    //let endlrow=+startpoints[4];
+    //let endlcol=+startpoints[5];
+    matrix[startwrow,startwcol]=2;
+    matrix[startnrow,startncol]=3;
+    matrix[startlrow,startlcol]=4;
+    let index=2;
+    let lampw=0;
+    let lampn=0;
+    
+    let tupo="";
+    while(index!=args.length)
+    {      
+        tupo=com[index];
+       // comandi=tupo.split(' ');
+       let comandi=tupo.split(' ');
+        if(comandi[0]=='mv')
+        {
+            if(comandi[1]=="Lsjtujzbo")
+            {   
+                if(comandi[2]=='d')
+                {
+                    
+                    matrix[startlrow][startlcol]=0;
+                    if(startlrow+1<row)  startlrow+=1;
+                }
+                else if(comandi[2]=='u')
+                {
+                    matrix[startlrow][startlcol]=0;
+                   if(startlrow-1>=0)  startlrow-=1;
+                }
+                else if(comandi[2]=='l')
+                {
+                    matrix[startlrow][startlcol]=0;
+                  if(startlcol-1>=0)   startlcol-=1;
+                }
+                else 
+                {
+                    matrix[startlrow][startlcol]=0;
+                   if(startlcol+1<col)  startlcol+=1;
+                }
+                if(startlrow==row-1 && startlcol==col-1) return `Lsjtujzbo is saved! ${startwrow} ${startwcol} ${startnrow} ${startncol}`;
+                matrix[startlrow][startlcol]=4;
+                let neshto=com[index+1].split(' ');
+            if(neshto[0]=='lay')  matrix[startlrow][startlcol]=1;
+            }
+
+           else if(comandi[1]=="Wboup")
+            {
+                if(comandi[2]=='d')
+                {
+                    matrix[startwrow][startwcol]=0;
+                   if(startwrow+1<row) startwrow+=1;
+                }
+                else if(comandi[2]=='u')
+                {
+                    matrix[startwrow][startwcol]=0;
+                   if(startwrow-1>=0)  startwrow-=1;
+                }
+                else if(comandi[2]=='l')
+                {
+                    matrix[startwrow][startwcol]=0;
+                   if(startwcol-1>=0)  startwcol-=1;
+                }
+                else 
+                {
+                    matrix[startwrow][startwcol]=0;
+                   if(startwcol+1<col)  startwcol+=1;
+                }
+                if(startwrow==startlrow&&startwcol==startlcol) return `The trolls caught Lsjtujzbo at ${startlrow} ${startlcol}`;
+                if(matrix[startwrow][startwcol]==1){lampw=1;if(lampn==1)return `Lsjtujzbo is saved! ${startwrow} ${startwcol} ${startnrow} ${startncol}`;}
+                matrix[startwrow][startwcol]=2;
+            }
+
+            else 
+            {
+                if(comandi[2]=='d')
+                {
+                    matrix[startnrow][startncol]=0;
+                     if(startnrow+1<row)startnrow+=1;
+                }
+                else if(comandi[2]=='u')
+                {
+                    matrix[startnrow][startncol]=0;
+                    if(startnrow-1>=0) startnrow-=1;
+                }
+                else if(comandi[2]=='l')
+                {
+                    matrix[startnrow][startncol]=0;
+                    if(startncol-1>=0) startncol-=1;
+                }
+                else 
+                {
+                    matrix[startnrow][startncol]=0;
+                    if(startncol+1<col) startncol+=1;
+                }
+                if(startnrow==startlrow&&startncol==startlcol) return `The trolls caught Lsjtujzbo at ${startlrow} ${startlcol}`;
+                    if(matrix[startnrow][startncol]==1){lampn=1;if(lampw==1)return `Lsjtujzbo is saved! ${startwrow} ${startwcol} ${startnrow} ${startncol}`;}
+                    matrix[startnrow][startncol]=3;
+            }
+        }
+        index++;
+    }
+    return `The trolls caught Lsjtujzbo at ${startlrow} ${startlcol}`;
+}

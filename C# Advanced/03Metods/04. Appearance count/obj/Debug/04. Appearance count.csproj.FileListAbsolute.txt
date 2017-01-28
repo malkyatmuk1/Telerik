@@ -1,0 +1,5 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\04. Appearance count\bin\Debug\_04.Appearance_count.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\04. Appearance count\bin\Debug\_04.Appearance_count.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\04. Appearance count\bin\Debug\_04.Appearance_count.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\04. Appearance count\obj\Debug\_04.Appearance_count.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\04. Appearance count\obj\Debug\_04.Appearance_count.pdb

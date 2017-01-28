@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+    input {
+     background:rgba(0,0,0,0);
+    border:none;
+    }
+    a:link {
+    color: #33ccff;
+    }
+    /* visited link */
+    a:visited {
+    color: #33ccff;
+    }
+    a{
+    padding: 3px;
+    }
+    div{
+      text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    }
+    .inp{
+
+      align-items: center;
+    }
+    .td2{
+      width: 40%;
+    }
+    .table3{
+      margin: -7px;
+    }
+    .table2{
+    margin: 10px;
+      border: 2px solid black;
+    }
+    .table1{
+      border: 2px solid black;
+      width: 650px;
+      height: 200px;
+    }
+    td, tr{
+      width: 50%;
+      padding: 0px 0px;
+      /*//margin: 10px;*/
+
+    }
+    img{
+        width: 80%;
+      }
+    fieldset{
+      border: 2px solid black;
+      padding: 10px;
+      height:110px;
+      width: 190px;
+      margin: 2px;
+    }
+    legend{
+    text-align: center;
+    }
+    </style>
+    <title></title>
+  </head>
+  <body>
+
+    <script>
+        function printValue(sliderID, textbox) {
+            var x = document.getElementById(textbox);
+            var y = document.getElementById(sliderID);
+            x.value = y.value;
+        }
+
+        window.onload = function() { printValue('slider1', 'rangeValue1'); printValue('slider2', 'rangeValue2'); printValue('slider3', 'rangeValue3'); printValue('slider4', 'rangeValue4'); }
+    </script>
+
+    <table style="border-collapse: collapse;" class="table1">
+      <tr>
+        <td style=" border-collapse: collapse; border:2px solid black; padding: 10px;" colspan="2" >
+          <div>
+            <a href="google.com">Apple </a><a href="">Toshiba </a><a href="">Lenovo </a>
+            <a href="">Dell </a><a href="">Asus </a><a href="">Hacer </a><a href="">HP </a>
+          </div>
+        </td>
+      </tr>
+      <tr >
+        <td rowspan="8" >
+          <table class="table2">
+            <tr>
+              <td>
+                <fieldset >
+                  <legend >Apple MacBookAir</legend>
+                  <table class="table3">
+                    <tr>
+                      <td class="td2"  rowspan="2"><img  src="mac.png"> </td>
+                      <td >64GB SSD</td>
+                    </tr>
+                    <tr>
+                      <td >2GB DDR </td>
+                    </tr>
+                    <tr>
+                      <td >1300 USD </td>
+                      <td>Intel Core i5</td>
+                    </tr>
+                  </table>
+                </fieldset>
+              </td>
+              <td>
+                <fieldset>
+                  <legend>Apple MacBookAir</legend>
+                  <table class="table3">
+                    <tr>
+                      <td class="td2" rowspan="2"><img  src="mac.png">  </td>
+                      <td>64GB SSD</td>
+                    </tr>
+                    <tr>
+                      <td >2GB DDR </td>
+                    </tr>
+                    <tr>
+                      <td >1300 USD </td>
+                      <td>Intel Core i5</td>
+                    </tr>
+                  </table>
+                </fieldset>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <fieldset>
+                  <legend>Apple MacBookAir</legend>
+                  <table class="table3">
+                    <tr>
+                      <td class="td2" rowspan="2"><img  src="mac.png">  </td>
+                      <td>64GB SSD</td>
+                    </tr>
+                    <tr>
+                      <td >2GB DDR </td>
+                    </tr>
+                    <tr>
+                      <td >1300 USD </td>
+                      <td>Intel Core i5</td>
+                    </tr>
+                  </table>
+                </fieldset>
+              </td>
+              <td>
+                <fieldset>
+                  <legend>Apple MacBookAir</legend>
+                  <table class="table3">
+                    <tr>
+                      <td class="td2"  rowspan="2"><img  src="mac.png"> </td>
+                      <td>64GB SSD</td>
+                    </tr>
+                    <tr>
+                      <td >2GB DDR </td>
+                    </tr>
+                    <tr>
+                      <td >1300 USD </td>
+                      <td>Intel Core i5</td>
+                    </tr>
+                  </table>
+                </fieldset>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <fieldset>
+                  <legend>Apple MacBookAir</legend>
+                  <table class="table3">
+                    <tr>
+                      <td class="td2" rowspan="2"><img  src="mac.png">  </td>
+                      <td>64GB SSD</td>
+                    </tr>
+                    <tr>
+                      <td >2GB DDR </td>
+                    </tr>
+                    <tr>
+                      <td >1300 USD </td>
+                      <td>Intel Core i5</td>
+                    </tr>
+                  </table>
+                </fieldset>
+              </td>
+              <td>
+                <fieldset>
+                  <legend>Apple MacBookAir</legend>
+                  <table class="table3">
+                    <tr>
+                      <td class="td2"  rowspan="2"><img  src="mac.png"> </td>
+                      <td>64GB SSD</td>
+                    </tr>
+                    <tr>
+                      <td >2GB DDR </td>
+                    </tr>
+                    <tr>
+                      <td >1300 USD </td>
+                      <td>Intel Core i5</td>
+                    </tr>
+                  </table>
+                </fieldset>
+              </td>
+            </tr>
+          </table>
+        </td>
+        <td>Min price: <input id="rangeValue1" type="text" size="2">USD</td>
+        <tr>
+          <td class="inp"><span id="1"></span><input id="slider1" type="range" min="100" max="5000" step="100" onchange="printValue('slider1','rangeValue1')"></td>
+        </tr>
+        <tr>
+          <td>Max price: <input id="rangeValue2" type="text" size="2">USD</td>
+        </tr>
+        <tr>
+          <td class="inp"><input id="slider2" type="range" min="100" max="5000" step="100" onchange="printValue('slider2','rangeValue2')"></td>
+        </tr>
+        <tr>
+          <td style=" width: 50% margin: 0px; padding: 0px;"> Min RAM:<input id="rangeValue3" type="text" size="2">GB</td>
+        </tr>
+        <tr>
+          <td class="inp">
+            <input id="slider3" type="range" min="1" max="64" step="2" onchange="printValue('slider3','rangeValue3')">
+          </td>
+        </tr>
+        <tr>
+          <td>Max RAM:<input id="rangeValue4" type="text" size="2">GB</td>
+        </tr>
+        <tr>
+          <td class="inp">
+            <input id="slider4" type="range" min="1" max="64" step="2" onchange="printValue('slider4','rangeValue4')">
+          </td>
+        </tr>
+      </tr>
+    </table>
+  </body>
+</html>

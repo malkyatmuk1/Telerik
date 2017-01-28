@@ -1,0 +1,6 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\10. Unicode characters\bin\Debug\_10.Unicode_characters.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\10. Unicode characters\bin\Debug\_10.Unicode_characters.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\10. Unicode characters\bin\Debug\_10.Unicode_characters.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\10. Unicode characters\obj\Debug\10. Unicode characters.csprojResolveAssemblyReference.cache
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\10. Unicode characters\obj\Debug\_10.Unicode_characters.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\10. Unicode characters\obj\Debug\_10.Unicode_characters.pdb

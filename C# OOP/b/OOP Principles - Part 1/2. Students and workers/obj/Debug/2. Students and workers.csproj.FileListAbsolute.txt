@@ -1,0 +1,15 @@
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 1\2. Students and workers\bin\Debug\_2.Students_and_workers.exe.config
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 1\2. Students and workers\obj\Debug\2. Students and workers.csprojResolveAssemblyReference.cache
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 1\2. Students and workers\bin\Debug\_2.Students_and_workers.exe
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 1\2. Students and workers\bin\Debug\_2.Students_and_workers.pdb
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 1\2. Students and workers\obj\Debug\_2.Students_and_workers.exe
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 1\2. Students and workers\obj\Debug\_2.Students_and_workers.pdb
+D:\Telerik\C# OOP\OOP Principles - Part 1\2. Students and workers\bin\Debug\_2.Students_and_workers.exe.config
+D:\Telerik\C# OOP\OOP Principles - Part 1\2. Students and workers\obj\Debug\_2.Students_and_workers.exe
+D:\Telerik\C# OOP\OOP Principles - Part 1\2. Students and workers\obj\Debug\_2.Students_and_workers.pdb
+D:\Telerik\C# OOP\OOP Principles - Part 1\2. Students and workers\bin\Debug\_2.Students_and_workers.exe
+D:\Telerik\C# OOP\OOP Principles - Part 1\2. Students and workers\bin\Debug\_2.Students_and_workers.pdb
+D:\Telerik\C# OOP\OOP Principles - Part 1\2. Students and workers\obj\Debug\2. Students and workers.csprojResolveAssemblyReference.cache
+D:\Telerik\C# OOP\b\OOP Principles - Part 1\2. Students and workers\bin\Debug\_2.Students_and_workers.exe.config
+D:\Telerik\C# OOP\b\OOP Principles - Part 1\2. Students and workers\obj\Debug\_2.Students_and_workers.exe
+D:\Telerik\C# OOP\b\OOP Principles - Part 1\2. Students and workers\obj\Debug\_2.Students_and_workers.pdb

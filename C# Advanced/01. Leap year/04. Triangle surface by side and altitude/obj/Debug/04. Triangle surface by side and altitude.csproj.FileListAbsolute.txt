@@ -1,0 +1,5 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Leap year\04. Triangle surface by side and altitude\bin\Debug\_04.Triangle_surface_by_side_and_altitude.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Leap year\04. Triangle surface by side and altitude\bin\Debug\_04.Triangle_surface_by_side_and_altitude.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Leap year\04. Triangle surface by side and altitude\bin\Debug\_04.Triangle_surface_by_side_and_altitude.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Leap year\04. Triangle surface by side and altitude\obj\Debug\_04.Triangle_surface_by_side_and_altitude.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Leap year\04. Triangle surface by side and altitude\obj\Debug\_04.Triangle_surface_by_side_and_altitude.pdb

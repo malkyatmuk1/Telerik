@@ -1,0 +1,6 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\04. Numeral Systems\bin\Debug\_04.Numeral_Systems.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\04. Numeral Systems\bin\Debug\_04.Numeral_Systems.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\04. Numeral Systems\bin\Debug\_04.Numeral_Systems.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\04. Numeral Systems\obj\Debug\01. Decimal to binary.csprojResolveAssemblyReference.cache
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\04. Numeral Systems\obj\Debug\_04.Numeral_Systems.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\04. Numeral Systems\obj\Debug\_04.Numeral_Systems.pdb

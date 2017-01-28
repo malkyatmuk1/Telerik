@@ -1,0 +1,9 @@
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 2\Problem 2. Bank accounts\bin\Debug\Problem_2.Bank_accounts.exe.config
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 2\Problem 2. Bank accounts\obj\Debug\Problem 2. Bank accounts.csprojResolveAssemblyReference.cache
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 2\Problem 2. Bank accounts\bin\Debug\Problem_2.Bank_accounts.exe
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 2\Problem 2. Bank accounts\bin\Debug\Problem_2.Bank_accounts.pdb
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 2\Problem 2. Bank accounts\obj\Debug\Problem_2.Bank_accounts.exe
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 2\Problem 2. Bank accounts\obj\Debug\Problem_2.Bank_accounts.pdb
+D:\Telerik\C# OOP\c\OOP Principles - Part 2\Problem 2. Bank accounts\bin\Debug\Problem_2.Bank_accounts.exe.config
+D:\Telerik\C# OOP\c\OOP Principles - Part 2\Problem 2. Bank accounts\obj\Debug\Problem_2.Bank_accounts.exe
+D:\Telerik\C# OOP\c\OOP Principles - Part 2\Problem 2. Bank accounts\obj\Debug\Problem_2.Bank_accounts.pdb

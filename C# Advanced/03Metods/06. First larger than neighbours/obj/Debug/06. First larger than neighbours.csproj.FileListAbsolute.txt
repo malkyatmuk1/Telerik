@@ -1,0 +1,5 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\06. First larger than neighbours\bin\Debug\_06.First_larger_than_neighbours.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\06. First larger than neighbours\bin\Debug\_06.First_larger_than_neighbours.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\06. First larger than neighbours\bin\Debug\_06.First_larger_than_neighbours.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\06. First larger than neighbours\obj\Debug\_06.First_larger_than_neighbours.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\06. First larger than neighbours\obj\Debug\_06.First_larger_than_neighbours.pdb

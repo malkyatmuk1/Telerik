@@ -1,0 +1,8 @@
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Grouped by GroupNumber\bin\Debug\Grouped by GroupNumber.exe.config
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Grouped by GroupNumber\bin\Debug\Grouped by GroupNumber.exe
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Grouped by GroupNumber\bin\Debug\Grouped by GroupNumber.pdb
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Grouped by GroupNumber\bin\Debug\Students.exe
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Grouped by GroupNumber\bin\Debug\Students.pdb
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Grouped by GroupNumber\obj\Debug\Grouped by GroupNumber.csprojResolveAssemblyReference.cache
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Grouped by GroupNumber\obj\Debug\Grouped by GroupNumber.exe
+C:\Users\malkyatmuk\Desktop\Extension-Methods-Delegates-Lambda-LINQ\Grouped by GroupNumber\obj\Debug\Grouped by GroupNumber.pdb

@@ -1,0 +1,6 @@
+C:\Users\malkyatmuk\Desktop\Defining Classes - Part 2\Generics\bin\Debug\Generics.exe.config
+C:\Users\malkyatmuk\Desktop\Defining Classes - Part 2\Generics\bin\Debug\Generics.exe
+C:\Users\malkyatmuk\Desktop\Defining Classes - Part 2\Generics\bin\Debug\Generics.pdb
+C:\Users\malkyatmuk\Desktop\Defining Classes - Part 2\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Users\malkyatmuk\Desktop\Defining Classes - Part 2\Generics\obj\Debug\Generics.exe
+C:\Users\malkyatmuk\Desktop\Defining Classes - Part 2\Generics\obj\Debug\Generics.pdb

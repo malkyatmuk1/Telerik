@@ -1,0 +1,5 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\12. Parse URL1\bin\Debug\_12.Parse_URL1.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\12. Parse URL1\bin\Debug\_12.Parse_URL1.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\12. Parse URL1\bin\Debug\_12.Parse_URL1.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\12. Parse URL1\obj\Debug\_12.Parse_URL1.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\06. Strings and Text Processing\12. Parse URL1\obj\Debug\_12.Parse_URL1.pdb

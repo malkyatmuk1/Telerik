@@ -1,0 +1,44 @@
+tr:nth-child(odd){background-color: rgb(236,236,216);}
+
+*{
+	font-family: Times;
+ }
+
+.th {
+    background-color: rgb(82,181,6);
+    padding-left: 4px;
+    color: white;
+    font-weight: normal;
+    text-align: left;
+    border-right: 1.5px solid #ddd; 
+    height: 30px;
+    border-bottom: 1.5px solid #ddd;
+}
+
+.tr{
+	height: 30px;
+}
+
+.img{
+	width: 20%;
+}
+
+.half{
+	width: 20%;
+}
+
+.table{
+	border-collapse: collapse;
+	width: 50%;
+}
+
+.td{
+	padding: 4px;
+	padding-left: 4px;
+	border-right: 1.5px solid #ddd; 
+}
+
+.bottom{
+
+	border-bottom: 1.5px solid #ddd;
+}

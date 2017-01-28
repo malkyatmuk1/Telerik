@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. CryptoCS", "C Advanced  2016 2017 1 June 2016\1. CryptoCS.csproj", "{24E6E7B7-6003-44B6-8AA3-8F2B61FEAF2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 2 Kitty", "Task 2 Kitty\Task 2 Kitty.csproj", "{EDC92EE9-193C-49EC-A4DF-6B5A68515CC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1Messages", "Task 1Messages\Task 1Messages.csproj", "{FA0C2C21-C4B0-45E0-9FDB-669B1104BC3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24E6E7B7-6003-44B6-8AA3-8F2B61FEAF2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E6E7B7-6003-44B6-8AA3-8F2B61FEAF2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E6E7B7-6003-44B6-8AA3-8F2B61FEAF2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E6E7B7-6003-44B6-8AA3-8F2B61FEAF2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC92EE9-193C-49EC-A4DF-6B5A68515CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC92EE9-193C-49EC-A4DF-6B5A68515CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC92EE9-193C-49EC-A4DF-6B5A68515CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC92EE9-193C-49EC-A4DF-6B5A68515CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA0C2C21-C4B0-45E0-9FDB-669B1104BC3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0C2C21-C4B0-45E0-9FDB-669B1104BC3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0C2C21-C4B0-45E0-9FDB-669B1104BC3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0C2C21-C4B0-45E0-9FDB-669B1104BC3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

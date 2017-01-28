@@ -1,0 +1,6 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\08. Binary short\bin\Debug\_08.Binary_short.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\08. Binary short\bin\Debug\_08.Binary_short.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\08. Binary short\bin\Debug\_08.Binary_short.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\08. Binary short\obj\Debug\08. Binary short.csprojResolveAssemblyReference.cache
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\08. Binary short\obj\Debug\_08.Binary_short.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\01. Decimal to binary\08. Binary short\obj\Debug\_08.Binary_short.pdb

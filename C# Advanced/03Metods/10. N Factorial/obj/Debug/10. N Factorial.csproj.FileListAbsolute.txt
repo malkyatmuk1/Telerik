@@ -1,0 +1,5 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\10. N Factorial\bin\Debug\_10.N_Factorial.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\10. N Factorial\bin\Debug\_10.N_Factorial.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\10. N Factorial\bin\Debug\_10.N_Factorial.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\10. N Factorial\obj\Debug\_10.N_Factorial.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\10. N Factorial\obj\Debug\_10.N_Factorial.pdb

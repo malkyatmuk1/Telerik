@@ -1,0 +1,6 @@
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 1\OOP Principles - Part 1\bin\Debug\OOP Principles - Part 1.exe.config
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 1\OOP Principles - Part 1\obj\Debug\OOP Principles - Part 1.exe
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 1\OOP Principles - Part 1\obj\Debug\OOP Principles - Part 1.pdb
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 1\OOP Principles - Part 1\bin\Debug\OOP Principles - Part 1.exe
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 1\OOP Principles - Part 1\bin\Debug\OOP Principles - Part 1.pdb
+C:\Users\malkyatmuk\Desktop\OOP Principles - Part 1\OOP Principles - Part 1\obj\Debug\1. School classes.csprojResolveAssemblyReference.cache

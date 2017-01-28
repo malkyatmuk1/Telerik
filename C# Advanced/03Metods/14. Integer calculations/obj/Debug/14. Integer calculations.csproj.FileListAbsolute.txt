@@ -1,0 +1,5 @@
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\14. Integer calculations\bin\Debug\_14.Integer_calculations.exe.config
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\14. Integer calculations\bin\Debug\_14.Integer_calculations.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\14. Integer calculations\bin\Debug\_14.Integer_calculations.pdb
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\14. Integer calculations\obj\Debug\_14.Integer_calculations.exe
+C:\Users\malkyatmuk\Desktop\C#\C# Advanced\03Metods\14. Integer calculations\obj\Debug\_14.Integer_calculations.pdb
